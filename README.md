@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thevel0per
 - 👀 I’m interested in RoR, mobile dev, web dev, Ruby, ReactJS, Kotlin, Swift
-- 🌱 I’m currently learning Swift mobile dev
+- 🌱 I’m currently sharpening my ReactJS skills
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 Contact me through kubanowak9755@gmail.com
 
