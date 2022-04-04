@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thevel0per
 - 👀 I’m interested in RoR, game dev, web dev, Ruby, ReactJS, Kotlin, C#
-- 🌱 I’m currently sharpening my ReactJS skills
+- 🌱 I’m currently sharpening my ReactJS, JS and TS skills, also trying to learn C# and Unity 3D
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 Contact me through kubanowak9755@gmail.com
 
