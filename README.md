@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thevel0per
-- 👀 I’m interested in RoR, Web Dev, Ruby, ReactJS, C++, Game Dev (UE5)
-- 🌱 I’m currently sharpening my ReactJS, JS and TS skills, also trying to learn C++ and UE5
+- 👀 I’m interested in RoR, Web Dev, Ruby, ReactJS, Software Architecture
+- 🌱 I’m currently sharpening my Rails skills, learning about architecture and ruby performance improvement techniques
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 Contact me through kubanowak9755@gmail.com
 
