@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thevel0per
 - 👀 I’m interested in RoR, Web Dev, Ruby, ReactJS, Software Architecture
-- 🌱 I’m currently sharpening my Rails skills, learning about architecture and ruby performance improvement techniques
+- 🌱 I’m currently sharpening my Rails skills, learning about architecture, design patterns, databases, ruby performance improvement techniques and also learning GO Gin framework
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 Contact me through kubanowak9755@gmail.com
 
